@@ -1,4 +1,6 @@
-# touch-component
+# vue-touch-component
+
+It's simple performance friendly component to work with touch/click events. This can be used to create such components as slider, range, switch, popup, alert, modal and many others
 
 ## Project setup
 ```
